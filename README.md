@@ -1,13 +1,12 @@
 ![Banner](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 
 <h1 align="center">Hi 👋, I'm Sanjay Praveen <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="50" /></h1>
-<h3 align="center">🚀 Data Science | 🧠 AI + Cloud | 🛠 ML Pipelines in Progress</h3>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Software+Engineer+at+Capgemini;DevOps+and+Cloud;Welcome+to+my+GitHub+Profile!">
+</p>
+
+<h3 align="center">🚀 Data Science | 🧠 AI + Cloud | 🛠 ML Pipelines in Progress</h3>
 
 ---
 
